@@ -4,7 +4,7 @@ TeamBook is a beginner-friendly employee directory web application built with Re
 
 ## Live Deployed Link
 
-- [Live Demo](https://your-deployment-link.vercel.app) *(Replace with your deployed Vercel URL)*
+- https://ps7-teambook-rho.vercel.app/
 
 ## API Used
 
