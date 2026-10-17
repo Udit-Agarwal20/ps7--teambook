@@ -32,15 +32,14 @@ TeamBook is a beginner-friendly employee directory web application built with Re
 - **Loading & Error Handling**: Displays user-friendly messages during data fetching or API failures.
 - **Responsive Card Grid**: Clean, mobile-friendly grid layout adapting across different screen sizes.
 
+
 ## Screenshots
 
-### 1. Employee Directory
-<!-- Add screenshot here -->
-`![Employee Directory Screenshot](./screenshots/directory.png)`
+### Employee Directory
+![Employee Directory](screenshots/employees.png)
 
-### 2. Employee Details & Tasks
-<!-- Add screenshot here -->
-`![Employee Details Screenshot](./screenshots/details.png)`
+### Employee Details
+![Employee Details](screenshots/employee-details.png)
 
 ## Getting Started
 
